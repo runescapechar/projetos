@@ -1,0 +1,31 @@
+This crack was made for AutoMouseKey v6.1.5.2 and for AutoHotkey 3.0.8.8
+
+!! CAREFULLY FOLLOW ALL STEPS TO ENSURE GOOD WORKING PROGRAMS !!
+
+Installation.
+
+Step 1: Install Installer/AutoMouseKey 6152.exe
+Step 2: Copy from Crack/AutoMouseKey.exe to C:\Program Files (x86)\Automatic Mouse and Keyboard
+
+Done.
+
+Compiled .exe files
+
+Step 1. Compile your program (through AutoMouseKey.exe) and give it a name (example: bot.exe)
+Step 2. Run AutoMouse Patcher
+Step 3. Select the file (bot.exe)
+Step 4. Click patch
+
+Done.
+
+Use AutoHotkey Without limitations
+
+Step 1. Open AutoHotKey.exe
+Step 2. Run AutoHotKeyKiller 3008.exe
+Step 3. Press enter
+(The program automatically closes when you close AutoHotKey.exe)
+
+Done.
+
+!! CAREFULLY FOLLOW ALL STEPS TO ENSURE GOOD WORKING PROGRAMS !!
+
