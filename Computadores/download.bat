@@ -1,3 +1,0 @@
-start iexplore.exe https://central.github.com/deployments/desktop/desktop/latest/win32
-start iexplore.exe https://download.teamviewer.com/download/TeamViewer_Setup.exe?utm_source=google&utm_medium=cpc&utm_campaign=br%7Cb%7Crm%7C19%7Cjul%7Cbroad-brand-only-sn%7Cfree%7Ct1%7C0&utm_content=broad_Brand-only&utm_term=%2Bteamviewer
-start iexplore.exe https://content.runescape.com/downloads/windows/RuneScape-Setup.exe?crc=448032095#_ga=2.117424006.1258766658.1591963295-622603737.1591963295
