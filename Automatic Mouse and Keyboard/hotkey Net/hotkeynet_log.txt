@@ -2,7 +2,7 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 13:17:20 on Friday, July 17, 2020
+File opened at 14:27:32 on Friday, July 17, 2020
 DNS name: pc01
 OS version: Microsoft  (build 9200)
 
@@ -21,11 +21,11 @@ CPU:
 
 
 Memory:
-	Load = 35%; 
+	Load = 34%; 
 	Total physical = 14335 MB; 
-	Available physical = 9290 MB; 
+	Available physical = 9348 MB; 
 	Total page file = 17023 MB; 
-	Avail page file = 11706 MB; 
+	Avail page file = 11863 MB; 
 	Total virtual = 2047 MB; 
 	Avail virtual = 1970 MB; 
 	Avail extended virtual = 0 MB.
