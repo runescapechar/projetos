@@ -2,8 +2,8 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 15:09:44 on Friday, July 17, 2020
-DNS name: pc01
+File opened at 17:02:34 on Friday, July 17, 2020
+DNS name: administrador
 OS version: Microsoft  (build 9200)
 
 
@@ -17,17 +17,17 @@ CPU:
 	Type = 24a; 
 	Alloc granularity = 10000; 
 	Level = 6; 
-	Revision = 3f02.
+	Revision = 5507.
 
 
 Memory:
-	Load = 35%; 
-	Total physical = 14335 MB; 
-	Available physical = 9312 MB; 
-	Total page file = 17023 MB; 
-	Avail page file = 11837 MB; 
+	Load = 36%; 
+	Total physical = 16383 MB; 
+	Available physical = 10450 MB; 
+	Total page file = 19327 MB; 
+	Avail page file = 13393 MB; 
 	Total virtual = 2047 MB; 
-	Avail virtual = 1970 MB; 
+	Avail virtual = 1969 MB; 
 	Avail extended virtual = 0 MB.
 
 
@@ -40,23 +40,23 @@ Mouse:
 
 Adapter 0:
 
-	IP Address	10.0.0.4
+	IP Address	10.0.1.4
 	Subnet Mask	255.255.255.0
-	Default Gateway	10.0.0.1
+	Default Gateway	10.0.1.1
 
-	Adapter Name	{D4C15FD9-A550-49A9-AF0B-4D04E29FF376}
+	Adapter Name	{54789B41-6485-40E6-8F92-7F7BC15D81D8}
 	Description	Microsoft Hyper-V Network Adapter
-	Physical Address	00-0D-3A-88-94-CD
+	Physical Address	00-0D-3A-F8-FB-C3
 
 	DHCP Enabled	Yes
 	DHCP Server	168.63.129.16
-	Lease Obtained	Thu Jul 16 08:18:50 2020
+	Lease Obtained	Mon Jul 06 19:14:38 2020
 
 	Have WINS	No
 
 HotkeyNet 0.1.45 build 210
 Start as server.
-This IP: 10.0.0.4
+This IP: 10.0.1.4
 
-C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 104.41.26.221
+C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 52.161.105.20
 
