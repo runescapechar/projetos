@@ -2,8 +2,8 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 00:00:59 on Friday, July 17, 2020
-DNS name: LAPTOP-3E022RGE
+File opened at 13:17:20 on Friday, July 17, 2020
+DNS name: pc01
 OS version: Microsoft  (build 9200)
 
 
@@ -12,147 +12,51 @@ CPU:
 	Page size = 1000; 
 	Min app address = 10000; 
 	Max app address = 7ffeffff; 
-	Mask = ff; 
-	Qty cores = 8; 
+	Mask = f; 
+	Qty cores = 4; 
 	Type = 24a; 
 	Alloc granularity = 10000; 
 	Level = 6; 
-	Revision = 8e0c.
+	Revision = 3f02.
 
 
 Memory:
-	Load = 91%; 
-	Total physical = 3975 MB; 
-	Available physical = 318 MB; 
-	Total page file = 10294 MB; 
-	Avail page file = 1740 MB; 
+	Load = 35%; 
+	Total physical = 14335 MB; 
+	Available physical = 9290 MB; 
+	Total page file = 17023 MB; 
+	Avail page file = 11706 MB; 
 	Total virtual = 2047 MB; 
-	Avail virtual = 1969 MB; 
+	Avail virtual = 1970 MB; 
 	Avail extended virtual = 0 MB.
 
 
 Mouse:
 	Mouse installed.
 	Buttons not swapped.
-	Speed: 0
-	Threshold (x,y): 0,0
+	Speed: 1
+	Threshold (x,y): 6,10
 
 
 Adapter 0:
 
-	IP Address	192.168.163.1
+	IP Address	10.0.0.4
 	Subnet Mask	255.255.255.0
-	Default Gateway	0.0.0.0
+	Default Gateway	10.0.0.1
 
-	Adapter Name	{C4FE4C51-808C-49C0-B1B9-B32E4B208F99}
-	Description	VMware Virtual Ethernet Adapter for VMnet1
-	Physical Address	00-50-56-C0-00-01
-
-	DHCP Enabled	Yes
-	DHCP Server	192.168.163.254
-	Lease Obtained	Thu Jul 16 23:55:05 2020
-
-	Have WINS	No
-
-Adapter 1:
-
-	IP Address	192.168.192.1
-	Subnet Mask	255.255.255.0
-	Default Gateway	0.0.0.0
-
-	Adapter Name	{D933EF7B-64A7-4083-AB01-A0128101781C}
-	Description	VMware Virtual Ethernet Adapter for VMnet8
-	Physical Address	00-50-56-C0-00-08
+	Adapter Name	{D4C15FD9-A550-49A9-AF0B-4D04E29FF376}
+	Description	Microsoft Hyper-V Network Adapter
+	Physical Address	00-0D-3A-88-94-CD
 
 	DHCP Enabled	Yes
-	DHCP Server	192.168.192.254
-	Lease Obtained	Thu Jul 16 23:55:05 2020
-
-	Have WINS	Yes
-	Primary Wins Server	192.168.192.2
-	Secondary Wins Server	192.168.192.2
-
-Adapter 2:
-
-	IP Address	192.168.56.1
-	Subnet Mask	255.255.255.0
-	Default Gateway	0.0.0.0
-
-	Adapter Name	{0C8E9074-B4D8-471F-A951-DDE24968F5A4}
-	Description	VirtualBox Host-Only Ethernet Adapter
-	Physical Address	0A-00-27-00-00-03
-
-	DHCP Enabled	No
-
-	Have WINS	No
-
-Adapter 3:
-
-	IP Address	0.0.0.0
-	Subnet Mask	0.0.0.0
-	Default Gateway	0.0.0.0
-
-	Adapter Name	{921342AA-2526-431F-BECD-802B02508240}
-	Description	TAP-Windows Adapter V9
-	Physical Address	00-FF-92-13-42-AA
-
-	DHCP Enabled	Yes
-	DHCP Server	
-	Lease Obtained	Wed Dec 31 21:00:00 1969
-
-	Have WINS	No
-
-Adapter 4:
-
-	IP Address	192.168.0.8
-	Subnet Mask	255.255.255.0
-	Default Gateway	192.168.0.1
-
-	Adapter Name	{5D87ED0C-3654-4689-B7EB-CF4985BAB727}
-	Description	Intel(R) Dual Band Wireless-AC 3165
-	Physical Address	5C-CD-5B-10-32-4A
-
-	DHCP Enabled	Yes
-	DHCP Server	192.168.0.1
-	Lease Obtained	Thu Jul 16 23:40:16 2020
-
-	Have WINS	No
-
-Adapter 5:
-
-	IP Address	0.0.0.0
-	Subnet Mask	0.0.0.0
-	Default Gateway	0.0.0.0
-
-	Adapter Name	{909DEA1C-1D7C-48F0-9B13-3819F781C9AD}
-	Description	Microsoft Wi-Fi Direct Virtual Adapter
-	Physical Address	5C-CD-5B-10-32-4B
-
-	DHCP Enabled	Yes
-	DHCP Server	
-	Lease Obtained	Wed Dec 31 21:00:00 1969
-
-	Have WINS	No
-
-Adapter 6:
-
-	IP Address	0.0.0.0
-	Subnet Mask	0.0.0.0
-	Default Gateway	0.0.0.0
-
-	Adapter Name	{2586F012-3FFC-4BA4-8D81-E67101BE69B3}
-	Description	Microsoft Wi-Fi Direct Virtual Adapter #2
-	Physical Address	5E-CD-5B-10-32-4A
-
-	DHCP Enabled	Yes
-	DHCP Server	
-	Lease Obtained	Wed Dec 31 21:00:00 1969
+	DHCP Server	168.63.129.16
+	Lease Obtained	Thu Jul 16 08:18:50 2020
 
 	Have WINS	No
 
 HotkeyNet 0.1.45 build 210
 Start as server.
-This IP: 192.168.56.1
+This IP: 10.0.0.4
 
-C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 191.177.184.181
+C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 104.41.26.221
 
