@@ -1,1 +1,0 @@
-del /q "C:\ProgramData\Jagex\RuneScape\*"
