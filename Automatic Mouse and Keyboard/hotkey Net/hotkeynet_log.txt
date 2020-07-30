@@ -2,8 +2,8 @@
 HotkeyNet Log File
 -------------------------------------------------------------------------------------
 
-File opened at 02:17:24 on Wednesday, July 22, 2020
-DNS name: pc03
+File opened at 18:14:33 on Monday, July 27, 2020
+DNS name: LAPTOP-G84KSI6T
 OS version: Microsoft  (build 9200)
 
 
@@ -12,22 +12,22 @@ CPU:
 	Page size = 1000; 
 	Min app address = 10000; 
 	Max app address = 7ffeffff; 
-	Mask = f; 
-	Qty cores = 4; 
+	Mask = ff; 
+	Qty cores = 8; 
 	Type = 24a; 
 	Alloc granularity = 10000; 
 	Level = 6; 
-	Revision = 3f02.
+	Revision = 8e0c.
 
 
 Memory:
-	Load = 33%; 
-	Total physical = 14335 MB; 
-	Available physical = 9510 MB; 
-	Total page file = 17397 MB; 
-	Avail page file = 12136 MB; 
+	Load = 86%; 
+	Total physical = 3975 MB; 
+	Available physical = 537 MB; 
+	Total page file = 8218 MB; 
+	Avail page file = 2160 MB; 
 	Total virtual = 2047 MB; 
-	Avail virtual = 1970 MB; 
+	Avail virtual = 1969 MB; 
 	Avail extended virtual = 0 MB.
 
 
@@ -40,23 +40,126 @@ Mouse:
 
 Adapter 0:
 
-	IP Address	10.0.0.4
-	Subnet Mask	255.255.255.0
-	Default Gateway	10.0.0.1
+	IP Address	26.94.80.145
+	Subnet Mask	255.0.0.0
+	Default Gateway	26.0.0.1
 
-	Adapter Name	{DF7ADCD5-734B-408A-8E27-897F29A2A6CD}
-	Description	Microsoft Hyper-V Network Adapter
-	Physical Address	00-0D-3A-D8-E7-57
+	Adapter Name	{C39FCC19-3C1C-45EE-89A0-F9718CA0DC78}
+	Description	Famatech RadminVPN Ethernet Adapter
+	Physical Address	02-50-91-DF-1A-00
+
+	DHCP Enabled	No
+
+	Have WINS	No
+
+Adapter 1:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{9BE370F5-CE99-4BE7-88A0-1F660C527C6A}
+	Description	TAP-NordVPN Windows Adapter V9
+	Physical Address	00-FF-9B-E3-70-F5
 
 	DHCP Enabled	Yes
-	DHCP Server	168.63.129.16
-	Lease Obtained	Mon Jul 20 21:50:11 2020
+	DHCP Server	
+	Lease Obtained	Wed Dec 31 21:00:00 1969
+
+	Have WINS	No
+
+Adapter 2:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{5D7C2CD5-9A75-1AC5-6245-118F1C411193}
+	Description	NordLynx Tunnel
+	Physical Address	00-00-00-00-00-00
+
+	DHCP Enabled	No
+
+	Have WINS	No
+
+Adapter 3:
+
+	IP Address	10.49.0.18
+	Subnet Mask	255.255.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{A420EC5A-3EFE-436B-9EF8-C2BE2FF7146C}
+	Description	TAP-ProtonVPN Windows Adapter V9
+	Physical Address	00-FF-A4-20-EC-5A
+
+	DHCP Enabled	Yes
+	DHCP Server	10.49.255.254
+	Lease Obtained	Mon Jul 27 18:12:27 2020
+
+	Have WINS	No
+
+Adapter 4:
+
+	IP Address	192.168.0.8
+	Subnet Mask	255.255.255.0
+	Default Gateway	192.168.0.1
+
+	Adapter Name	{5D87ED0C-3654-4689-B7EB-CF4985BAB727}
+	Description	Intel(R) Dual Band Wireless-AC 3165
+	Physical Address	5C-CD-5B-10-32-4A
+
+	DHCP Enabled	Yes
+	DHCP Server	192.168.0.1
+	Lease Obtained	Mon Jul 27 17:50:26 2020
+
+	Have WINS	No
+
+Adapter 5:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{AEB262FD-155A-4214-821C-0025211950D0}
+	Description	Microsoft Wi-Fi Direct Virtual Adapter #3
+	Physical Address	5C-CD-5B-10-32-4B
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Wed Dec 31 21:00:00 1969
+
+	Have WINS	No
+
+Adapter 6:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{42135DC1-3DCA-48A1-81C4-E88779B849D9}
+	Description	Microsoft Wi-Fi Direct Virtual Adapter #4
+	Physical Address	5E-CD-5B-10-32-4A
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Wed Dec 31 21:00:00 1969
 
 	Have WINS	No
 
 HotkeyNet 0.1.45 build 210
 Start as server.
-This IP: 10.0.0.4
+This IP: 26.94.80.145
 
-C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 13.94.113.113
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Acesso negado.
 
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Acesso negado.
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
+C:\d\sou\cpp\macro\foreground_lock.cpp 64: Set SystemParametersInfo; system error 5: Acesso negado.
+
+C:\d\sou\cpp\macro\foreground_lock.cpp 85: Foreground Lock Timeout should be zero, but it's not.
+C:\d\sou\cpp\macro\wininet.cpp 88: InternetOpenUrl(); system error 12029: 
+C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.com/auth/auth.php?kU3daj3yCBVub73sqwNXsQGAjFuJhmpsgD5Hp8MraPR0m15zw2Lbvz7g1+1e9YPRjVqCcu8yo2I9lQ2l2zvvDE8fg2DzcXs7Fdei46KkR8EHra/DaqyOKrZVjAwukJQo33Krq6XC3+bM/DDqWR0RRQGK3WaWQoMJkR2A6ZorwzP1RWQLkxgYI34ROd4+/sy+5BGM9Z/xhFcTMDXdwJcVu8HQc4sCpOj33vK66TdA6F4Lb7MyhZGEggkQnD0WhoLayX5sLC2M3uiMJwAi2Ut2iCSOw9kBcnGhz7/WMBeQlxBXhtM5muiCQ2lpZw/5E8kAmoPx0BZtzFuM8R9CXUbZf7EVyCJP1jieDINk7FKeAtZmZdb0GX1yBzhufKJe0tlrEoN3qSVBRwtZUdY8Eb2XPDfuT/MoLnUFa6TYBOb7veNkWerN8c4yQqQd3zEXyp9RImsWlKjX+zjWZleppOIeZ0UYgtx9hq7WSLziiMFR29Yu2+N6QzuszrGeHOSuf3PAW1fr+nQLH3X+BXme
+C:\d\sou\cpp\macro\wininet.cpp 88: InternetOpenUrl(); system error 12007: 
+C:\d\sou\cpp\macro\wininet.cpp 91: URL = http://hotkeynet.net/auth/auth.php?kU3daj3yCBVub73sqwNXsQGAjFuJhmpsgD5Hp8MraPR0m15zw2Lbvz7g1+1e9YPRjVqCcu8yo2I9lQ2l2zvvDE8fg2DzcXs7Fdei46KkR8EHra/DaqyOKrZVjAwukJQo33Krq6XC3+bM/DDqWR0RRQGK3WaWQoMJkR2A6ZorwzP1RWQLkxgYI34ROd4+/sy+5BGM9Z/xhFcTMDXdwJcVu8HQc4sCpOj33vK66TdA6F4Lb7MyhZGEggkQnD0WhoLayX5sLC2M3uiMJwAi2Ut2iCSOw9kBcnGhz7/WMBeQlxBXhtM5muiCQ2lpZw/5E8kAmoPx0BZtzFuM8R9CXUbZf7EVyCJP1jieDINk7FKeAtZmZdb0GX1yBzhufKJe0tlrEoN3qSVBRwtZUdY8Eb2XPDfuT/MoLnUFa6TYBOb7veNkWerN8c4yQqQd3zEXyp9RImsWlKjX+zjWZleppOIeZ0UYgtx9hq7WSLziiMFR29Yu2+N6QzuszrGeHOSuf3PAW1fr+nQLH3X+BXme

@@ -1,11 +1,10 @@
-<MovementHotkey w, a, s, d, up, down, left, right>
-<SendLabel joe, sam>
-<Key %Trigger%><Label alpha local SendWinM rs1>QA
-<Label bravo local SendWinM rs2>
+<Label alpha local SendWinM RS1>
+<Label bravo local SendWinM RS2>
+
 
 
 <UseKeyAsModifier LALT>
 
 <Hotkey LALT, LButton>
-<SendLabel alpha, bravo>
+<SendLabel alpha, bravo,>
 <ClickMouse %TriggerMainKey%>
