@@ -1,0 +1,10 @@
+<Label alpha local SendWinM RS1>
+<Label bravo local SendWinM RS2>
+
+
+
+<UseKeyAsModifier LALT>
+
+<Hotkey LALT, LButton>
+<SendLabel alpha, bravo,>
+<ClickMouse %TriggerMainKey%>
