@@ -1,5 +1,0 @@
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\​​Windows NT\CurrentVersion\Windows
-
-DisplayNotRet REG_DWORD 
-
-
